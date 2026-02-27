@@ -1,0 +1,5 @@
+langchain==0.3.26
+langchain-openai==0.2.1
+serpapi==0.1.5
+python-dotenv==1.0.0
+requests==2.32.3
