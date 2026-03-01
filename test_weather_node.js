@@ -2,7 +2,7 @@
 const https = require('https');
 
 // 和风天气API密钥
-const apiKey = "5576095ee31e492aba1c8a2e5199ba69";
+const apiKey = "。。。";
 // 使用北京的LocationID
 const location = "101010100";
 
